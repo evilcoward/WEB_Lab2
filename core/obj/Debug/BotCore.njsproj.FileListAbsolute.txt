@@ -1,0 +1,3 @@
+C:\Users\пользователь\source\repos\BotCore\BotCore\obj\Debug\BotCore.njsprojAssemblyReference.cache
+C:\Users\пользователь\source\repos\BotCore\BotCore\obj\Debug\BotCore.njsproj.CoreCompileInputs.cache
+C:\Users\пользователь\source\repos\BotCore\BotCore\bin\Microsoft.NodejsTools.WebRole.dll
